@@ -23,3 +23,17 @@ Here you can find a series of laboratory works (jupyter notebook format), which 
 3. Regularization
 4. Data augmentation
 5. Modern architecture
+
+##### 4. Embeddings
+1. Latent semantic analysis (LSA)
+2. Word2vec
+3. GloVe
+4. FastText
+
+##### 5. Recurrent neural network
+
+##### 6. Wiki search
+
+##### 7. Bonus
+1. DSSM
+2. ...
